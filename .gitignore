@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+db.sqlite3
+media/
+staticfiles/
+
+# 原始聊天归档仅保留在本地；GitHub 使用整理后的项目文档。
+docs/source-context.md
